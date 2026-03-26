@@ -89,10 +89,7 @@ public class Pakemon {
     public String getNombreJugador() {
         return nombreJugador;
     }
-    /**
-     * 
-     * @param nombreJugador 
-     */
+  
     public void setNombreJugador(String nombreJugador) {
         this.nombreJugador = nombreJugador;
     }

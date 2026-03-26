@@ -1,0 +1,1 @@
+Para subir la rama principal a git hub usaría el comando git push origin main. 
